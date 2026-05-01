@@ -6,9 +6,9 @@
 
 ## Contributors
 
-- DevlinNul: 基于旧版矢量图（`base.eps`）进行个别元素调整（1934->1918），并重新设定了渐变条的色彩参数。
-- paran3xus: 提供了渐变条色彩参数的选择与校正技术支持。
-- hanjiatong: 提供了 `base.eps` ，为后续的修改提供了基础。
+- **DevlinNul**: 基于旧版矢量图（`base.eps`）进行个别元素调整（1934->1918），并重新设定了渐变条的色彩参数。
+- **paran3xus**: 提供了渐变条色彩参数的选择与校正技术支持。
+- **hanjiatong**: 提供了 `base.eps` ，为后续的修改提供了基础。
 
 ## 文件说明
 
@@ -32,13 +32,13 @@
 
 本项目中的学校标识文件仅供学习交流。应用本项目提供的学校标识的课程论文、毕业设计等由于未使用官方标识，存在不被认可的风险。如需求稳，请移步SCUT官网以获取官方提供的高清位图：[学校标识](https://www.scut.edu.cn/new/9017/list.htm)。
 
-
+**The university logos provided here are for academic use only. Using these unofficial versions in formal assignments or theses may lead to academic rejection. To ensure compliance, please download official high-resolution bitmaps from the SCUT website: <https://www.scut.edu.cn/new/9017/list.htm>.**
 
 ## 致谢
 
 - 感谢 `hanjiatong` 提供了保留编辑属性的旧版校名校徽矢量图（eps格式）。
 - 感谢 `paran3xus` 为渐变条色彩参数选择与校正提供技术支持。
 
-## contact
+<!-- ## contact
 
-邮箱：<stream12nul@163.com>
+邮箱：<stream12nul@163.com> -->
