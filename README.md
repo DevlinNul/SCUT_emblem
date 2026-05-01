@@ -18,11 +18,11 @@
 
 ### PDF 格式
 
-注意所有文件名中标注为 `渐变色` 的 PDF 文件的 `1918` 都是文本而非路径，其他 PDF 文件中的 `1918` 都是路径。
+注意所有文件名中标注为 `gradient` 的 PDF 文件的 `1918` 都是文本而非路径，其他 PDF 文件中的 `1918` 都是路径。
 
 可能是由于 PDF 文件遵循的标准不一样的问题，目前目录中所有由 Ghostscript 生成的 PDF 均支持在 LaTeX 的 `tikz` 宏包的 `\node`命令的 `opacity` 键指定不透明度，而由 Adobe PDF library 生成的均不支持（该键无效）。
 
-如果需要给 PDF 文档加水印，请用 `单色校徽` 。
+如果需要给 PDF 文档加水印，请用 `watermark.pdf/watermark.svg` 。
 
 ### SVG 格式
 
