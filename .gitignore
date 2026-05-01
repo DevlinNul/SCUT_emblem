@@ -1,0 +1,5 @@
+deserted/
+*.pdf
+*.svg
+*.eps
+!base.eps
